@@ -97,6 +97,7 @@ const PRODUCTS = [
   { price: '', name: "JUAN PEREZ - 3794554433"},
   { price: '', name: "MARIO GOMEZ - 3794778844"},
   { price: '', name: "OTRA PERSONA - 3794876543"},
+  { price: '', name: "PERSONA NUEVA - 3794999999"},
   
 ];
 
